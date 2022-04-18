@@ -1,1 +1,1 @@
-# internet_magazin
+# goit-markup-hw-08
